@@ -1,0 +1,21 @@
+{
+        "files.exclude": {
+            "**/build": true,            
+            "odoo/cli": true,
+            "odoo/conf": true,
+            "odoo/modules": true,
+            "odoo/osv": true,
+            "odoo/service": true,
+            "odoo/tests": true,
+            "odoo/tools": true,
+            "odoo/upgrade": true,
+            "odoo/*.py": true,
+            "odoo/*.rng": true,            
+        },
+        "workbench.editor.enablePreview": false,
+        "debug.toolBarLocation": "docked",
+        "jupyter.debugJustMyCode": false,
+        "search.collapseResults": "alwaysCollapse",    
+        "search.defaultViewMode": "tree",                    
+        "explorer.excludeGitIgnore": false
+}

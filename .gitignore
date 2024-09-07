@@ -1,0 +1,15 @@
+# Caches et fichiers temporaires
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Fichiers de logs
+*.log
+*.pot
+*.pid
+*.swp
+
+# Répertoires de cache Python
+.cache/
+odoo/addons/

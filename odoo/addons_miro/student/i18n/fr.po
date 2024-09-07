@@ -1,0 +1,92 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* student
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 17.0-20240905\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-09-06 15:26+0000\n"
+"PO-Revision-Date: 2024-09-06 15:26+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: student
+#: model:ir.model.fields,field_description:student.field_student_student__age
+msgid "Age"
+msgstr "Age"
+
+#. module: student
+#: model:ir.model.fields,field_description:student.field_student_student__class_name
+msgid "Class Name"
+msgstr "Nom de classe"
+
+#. module: student
+#: model_terms:ir.actions.act_window,help:student.action_student
+msgid "Create or manage students."
+msgstr "Creer ou gerer etudiants"
+
+#. module: student
+#: model:ir.model.fields,field_description:student.field_student_student__create_uid
+msgid "Created by"
+msgstr "cree par"
+
+#. module: student
+#: model:ir.model.fields,field_description:student.field_student_student__create_date
+msgid "Created on"
+msgstr ""
+
+#. module: student
+#: model:ir.model.fields,field_description:student.field_student_student__display_name
+msgid "Display Name"
+msgstr ""
+
+#. module: student
+#: model:ir.model.fields,field_description:student.field_student_student__enrollment_date
+msgid "Enrollment Date"
+msgstr ""
+
+#. module: student
+#: model:ir.model.fields,field_description:student.field_student_student__id
+msgid "ID"
+msgstr "Id"
+
+#. module: student
+#: model:ir.model.fields,field_description:student.field_student_student__write_uid
+msgid "Last Updated by"
+msgstr "Derniere mise a jour par"
+
+#. module: student
+#: model:ir.model.fields,field_description:student.field_student_student__write_date
+msgid "Last Updated on"
+msgstr "Derniere mise a jour le"
+
+#. module: student
+#: model:ir.ui.menu,name:student.menu_student
+msgid "Manage Students"
+msgstr "Gestion des etudiants"
+
+#. module: student
+#: model:ir.model.fields,field_description:student.field_student_student__name
+msgid "Name"
+msgstr "Nom"
+
+#. module: student
+#: model:ir.model,name:student.model_student_student
+msgid "Student"
+msgstr "Etudiant"
+
+#. module: student
+#: model:ir.model.fields,field_description:student.field_student_student__student_id
+msgid "Student ID"
+msgstr "Id etudiants"
+
+#. module: student
+#: model:ir.actions.act_window,name:student.action_student
+#: model:ir.ui.menu,name:student.menu_student_root
+msgid "Students"
+msgstr "Etudiants"
