@@ -1,4 +1,4 @@
-#!/media/andry/Disque local/Odoo/myenv/bin/python3
+#!/home/andry/Odoo/myenv/bin/python3
 
 # Author:
 # Contact: grubert@users.sf.net

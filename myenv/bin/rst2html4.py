@@ -1,4 +1,4 @@
-#!/media/andry/Disque local/Odoo/myenv/bin/python3
+#!/home/andry/Odoo/myenv/bin/python3
 
 # $Id: rst2html4.py 7994 2016-12-10 17:41:45Z milde $
 # Author: David Goodger <goodger@python.org>

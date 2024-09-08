@@ -1,4 +1,4 @@
-#!/media/andry/Disque local/Odoo/myenv/bin/python3
+#!/home/andry/Odoo/myenv/bin/python3
 
 # $Id: rst2odt_prepstyles.py 8346 2019-08-26 12:11:32Z milde $
 # Author: Dave Kuhlman <dkuhlman@rexx.com>

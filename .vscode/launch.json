@@ -1,14 +1,20 @@
-{    
+{
     "version": "0.2.0",
     "configurations": [
-        {"name":"Python Debugger: Current File","type":"debugpy","request":"launch","program":"${file}","console":"integratedTerminal"},
+        {
+            "name": "Python Debugger: Current File",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal"
+        },
         {
             "name": "Python: Current File",
             "type": "debugpy",
             "request": "launch",
             "program": "${workspaceFolder}/odoo-bin",
             "console": "integratedTerminal",
-            "justMyCode": false,
+            "justMyCode": false,  
             "args": [
                 "-c", "${workspaceFolder}/odoo.conf", "--log-handler", "odoo.tools.convert:DEBUG", "-p", "8069", "--limit-time-real", "3600", "--dev", "xml"
             ]

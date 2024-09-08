@@ -1,4 +1,4 @@
-#!/media/andry/Disque local/Odoo/myenv/bin/python3
+#!/home/andry/Odoo/myenv/bin/python3
 
 # $Id: rst2pseudoxml.py 4564 2006-05-21 20:44:42Z wiemann $
 # Author: David Goodger <goodger@python.org>
